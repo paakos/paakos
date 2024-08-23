@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paakos
+- 👋 Hi, I’m Pablo
 - 👀 I’m interested in data {Ingeneering, Science, Analytics }
 - 🌱 I’m continusly learning {Ingeneering, Science, Analytics }
 - 💞️ I’m looking to collaborate on {Ingeneering, Science, Analytics }
